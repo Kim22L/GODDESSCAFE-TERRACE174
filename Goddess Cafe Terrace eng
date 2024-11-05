@@ -1,0 +1,17 @@
+{
+  "titre": "<titre du manga>",
+  "description": "<description du manga>",
+  "artiste": "<artiste manga>",
+  "auteur": "<auteur du manga>",
+  "cover": "<mangacoverurl.jpg>",
+  "chapitres": {
+    "<numéro de chapitre>": {
+      "titre": "<nom du chapitre>",
+      "volume": "<numéro de volume>",
+      « groupes » : {
+        "<nom du groupe>": "/proxy/api/imgur/chapter/<GT4GD4Z>/"
+      },
+      "dernière mise à jour": "1616368746"
+    },
+  }
+}
